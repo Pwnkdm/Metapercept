@@ -183,6 +183,7 @@ function App() {
           </div>
         </div>
       </div>
+      {/* footer ends here  */}
     </div>
   );
 }
